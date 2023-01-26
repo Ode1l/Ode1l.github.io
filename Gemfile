@@ -1,8 +1,7 @@
-source 'http://gems.ruby-china.com'
-
-gem 'rough'
+source 'https://rubygems.org'
 gem 'jekyll-paginate'
-gem 'jekyll-geo-pattern'
-gem 'kramdown'
-gem 'jekyll-github-metadata'
-gem 'jekyll-octicons'
+
+gem "jekyll", "~> 4.0"
+gem "rake"
+
+gem "webrick", "~> 1.7"
