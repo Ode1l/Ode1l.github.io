@@ -7,13 +7,8 @@ header-mask: 0.3
 multilingual: true
 ---
 
+<!--include multilingual-sel.html 作用等同于 Language Selector -->
 {% include multilingual-sel.html %}
-
-<!-- Language Selector -->
-<select onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected> 中文 Chinese </option>
-    <option value="1"> 英语 English </option>
-</select>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
