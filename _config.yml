@@ -3,7 +3,7 @@ title: Ode1l Blog
 SEOTitle: 奥德尔的博客 | Ode1l Blog
 header-img: img/home-bg.jpg
 email: 137100916@qq.com
-description: "这里是 @Ode1l 的个人博客，随我一起阅读，一起思考上帝的杰作"
+description: "这里是 @Ode1l 的个人博客，随我一起阅读，一起思考"
 keyword: "Ode1l, iris, Ode1l's blog, Economics, Sociology, History, Humanism, Conservatism, Austrian school, Psychology, Computer"
 url: "https://Ode1l.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     temp
-zhihu_username:     temp
-github_username:    temp
-twitter_username:  temp
-facebook_username:  temp
+weibo_username: temp
+zhihu_username: temp
+github_username: temp
+twitter_username: temp
+facebook_username: temp
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -90,9 +90,9 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 # sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-about-description: "Men are born ignorant, not stupid. They are made stupid by education.--Bertrand Russell <br> React Team @ Meta"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-# sidebar-avatar: https://github.com/Ode1l.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Men are born ignorant, not stupid. They are made stupid by education.----Bertrand Russell <br> React Team @ Meta"
+# sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Ode1l.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
