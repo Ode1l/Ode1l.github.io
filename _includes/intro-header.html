@@ -5,28 +5,63 @@
 
 {% if include.type == 'post' or include.type == 'page' %}
 <style type="text/css">
-    header.intro-header{
+    header.intro-header {
         position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-    background: {{ page.header-bg-css }};
+
+    background: {
+
+    {
+        page . header-bg-css
+    }
+    }
+    ;
     }
 
-    {% if page.header-mask %}
-    header.intro-header .header-mask{
+    {
+    %
+    if
+    page
+    .
+    header-mask
+    %
+    }
+    header.intro-header .header-mask {
         width: 100%;
         height: 100%;
         position: absolute;
-    background: rgba(0,0,0, {{ page.header-mask }});
+
+    background:
+
+    rgba
+    (
+    0
+    ,
+    0
+    ,
+    0
+    ,
+    {
+    {
+        page . header-mask
     }
-    {% endif %}
+    }
+    )
+    ;
+    }
+    {
+    %
+    endif
+    %
+    }
 </style>
 {% endif %}
 
 {% if include.type == 'post' %}
 {% if page.header-style == 'text' %}
-<header class="intro-header style-text" >
+<header class="intro-header style-text">
     {% else %}
-    <header class="intro-header" >
+    <header class="intro-header">
         {% endif %}
         <div class="header-mask"></div>
         {% if page.header-img-credit %}
@@ -40,7 +75,8 @@
                     <div class="post-heading">
                         <div class="tags">
                             {% for tag in page.tags %}
-                            <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
+                            <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}"
+                               title="{{ tag }}">{{ tag }}</a>
                             {% endfor %}
                         </div>
                         <h1>{{ page.title }}</h1>
@@ -56,20 +92,22 @@
 
     {% if include.type == 'keynote' %}
     <style type="text/css">
-        header.intro-header{
+        header.intro-header {
             height: 500px;
             overflow: hidden;
         }
-        header.intro-header .container{
+
+        header.intro-header .container {
             visibility: hidden;
         }
-        header iframe{
+
+        header iframe {
             width: 100%;
             height: 100%;
             border: 0;
         }
     </style>
-    <header class="intro-header" >
+    <header class="intro-header">
         <iframe src="{{page.iframe}}"></iframe>
         <!-- keep for SEO -->
         <div class="container">
@@ -78,7 +116,8 @@
                     <div class="post-heading">
                         <div class="tags">
                             {% for tag in page.tags %}
-                            <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
+                            <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}"
+                               title="{{ tag }}">{{ tag }}</a>
                             {% endfor %}
                         </div>
                         <h1>{{ page.title }}</h1>
@@ -94,7 +133,8 @@
     {% endif %}
 
     {% if include.type == 'page' %}
-    <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <header class="intro-header"
+            style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
         <div class="header-mask"></div>
         <div class="container">
             <div class="row">
