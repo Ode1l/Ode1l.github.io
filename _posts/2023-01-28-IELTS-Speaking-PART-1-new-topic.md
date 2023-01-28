@@ -53,7 +53,7 @@ tags:
 
 **Would you like to start your own small business in the future?**
 
->It is a dream of mine to start my own small business one day. I want to own a business that brings  jobs and money to my community. I think that is a very prestigious and respectable role to have in  society.
+> It is a dream of mine to start my own small business one day. I want to own a business that brings  jobs and money to my community. I think that is a very prestigious and respectable role to have in  society.
 
 > I don’t think I would like to start my on small business one day. That seems like a lot of stress and  uncertainty. It is hard to make a business work and to make it profitable. I would rather just earn a  good salary from a large company. 
 
@@ -69,7 +69,7 @@ tags:
 
 > Yes, I usually carry a lot of keys with me. There are so many keys I need on a daily basis. I have my  room key, the key to my building, my locker key at school and my locker key at the gym. And these  are on a chain with all my other random keys. 
 
->I try my best not to carry a lot of keys with me. I find that keys are cumbersome and can be annoying  to carry in your pocket. They are uncomfortable and can make a lot of noise when they jangle.  Therefore, I try to only take out the keys I need like my housekey. 
+> I try my best not to carry a lot of keys with me. I find that keys are cumbersome and can be annoying  to carry in your pocket. They are uncomfortable and can make a lot of noise when they jangle.  Therefore, I try to only take out the keys I need like my housekey. 
 
 **Do you often forget to take keys with you?**
 
@@ -93,7 +93,7 @@ tags:
 
 **How often do you wear T-shirts?**
 
->I wear T-shirts very often as I think they are a convenient and comfortable item of clothing. I own a  lot of T-shirts, some plain, some multicoloured, and some with designs. I find you can wear T-shirts  for many different occasions. 
+> I wear T-shirts very often as I think they are a convenient and comfortable item of clothing. I own a  lot of T-shirts, some plain, some multicoloured, and some with designs. I find you can wear T-shirts  for many different occasions. 
 
 > I seldom wear T-shirts as I am more frequently dressed in slightly more formal wear. I have nothing  against T-shirts in general but during my work and studies I think it is appropriate to wear a proper  buttoned shirt. Then, during the weekends I normally wear things slightly more high-fashion than  T-shirts. 
 
@@ -139,7 +139,7 @@ tags:
 
 > I do not ever work or study at the weekends. I think it is very important to have a clear division  between work time and personal time. I will only work or study on weekdays and even on weekdays I  do not work or study in the evening. 
 
->I frequently study and work at the weekends. I use my weekends to complete my reproductive labour  and ensure that I have food and clothes for the following week. This often leaves me with quite a bit  of free time during the weekends which sometimes I use to work or study. 
+> I frequently study and work at the weekends. I use my weekends to complete my reproductive labour  and ensure that I have food and clothes for the following week. This often leaves me with quite a bit  of free time during the weekends which sometimes I use to work or study. 
 
 ### Sports
 
@@ -205,7 +205,7 @@ tags:
 
 > I do not always feel happy when I buy something new. To be honest, I am not the kind of person who  is into retail therapy. I buy things when I need them and I try to be sensible in my purchases.  Therefore, buying something new doesn’t make me feel particularly happy. 
 
->I must admit, I am quite the shopaholic, and I always feel ecstatic when I purchase a new item. I love  going to the mall or surfing the web looking the best deal or the hottest new items. It makes me so  happy to receive the new item and to use it for the first time! 
+> I must admit, I am quite the shopaholic, and I always feel ecstatic when I purchase a new item. I love  going to the mall or surfing the web looking the best deal or the hottest new items. It makes me so  happy to receive the new item and to use it for the first time! 
 
 **What makes you feel happiest in your studies now?**
 
@@ -215,7 +215,7 @@ tags:
 
 **What do you think will bring you happiness in the future?**
 
->I think my future successes will bring me happiness in the future. I am a very ambitious person, and I  am driven to succeed and prove myself in all aspects of my life. I look forward to excelling in my job,  in my relationships and in my personal growth. I think this will bring me a lot of happiness. 
+> I think my future successes will bring me happiness in the future. I am a very ambitious person, and I  am driven to succeed and prove myself in all aspects of my life. I look forward to excelling in my job,  in my relationships and in my personal growth. I think this will bring me a lot of happiness. 
 
 > I think a good social life and a good family life will bring me happiness in the future. I strongly  believe that the most important thing in life is the people who around you. I look forward to having a  close group of friends and a strong family unit to support me through all the ups and downs life has to  bring. 
 
@@ -225,13 +225,13 @@ tags:
 
 > I prefer traditional art to modern art. Personally, I think that modern art is very confusing and a lot of  the time I cannot tell the difference between the work of a famous modern artist and the drawings of  a five year old child. I believe that traditional artists have far more skill, discipline, and craft. 
 
->I have always really liked modern art. I think modern art is daring and exciting. You never know  what to expect with modern art! In contrast, traditional art can be pretty boring and repetitive, it does  not excite me at all. I just wish there were more modern art galleries in China. 
+> I have always really liked modern art. I think modern art is daring and exciting. You never know  what to expect with modern art! In contrast, traditional art can be pretty boring and repetitive, it does  not excite me at all. I just wish there were more modern art galleries in China. 
 
 **Did you do much art when you were a child?**
 
 > I did not do a lot of art when I was a child. I did not grow up in a very creative household and my  parents encouraged me to study more rather than engage in painting, crafts, or drawing. So, I hardly  did much art at all while I was growing up. 
 
->I was always doing art when I was a child! I did all sorts of different art. I used to love drawing and  painting. Then when I got older, I started getting into more complicated forms of art such as pottery  and collage making. Most weeks I would end up making some kind of amateur artwork. 
+> I was always doing art when I was a child! I did all sorts of different art. I used to love drawing and  painting. Then when I got older, I started getting into more complicated forms of art such as pottery  and collage making. Most weeks I would end up making some kind of amateur artwork. 
 
 **Do you want to be an artist?**
 
@@ -261,7 +261,7 @@ tags:
 
 **Are there any musicians you would like to see in a live concert?**
 
->Ever since I was a small child it has been my absolute dream to go see the Shanghai Symphony  Orchestra. Not too long ago Xiaogang Ye performed ‘Songs of the Earth’ and apparently it was a  brilliant and unforgettable performance. One night at the Shanghai Symphony Orchestra would bring  me a lifetime of joy. 
+> Ever since I was a small child it has been my absolute dream to go see the Shanghai Symphony  Orchestra. Not too long ago Xiaogang Ye performed ‘Songs of the Earth’ and apparently it was a  brilliant and unforgettable performance. One night at the Shanghai Symphony Orchestra would bring  me a lifetime of joy. 
 
 > I have always wanted to see BTS perform a live concert. The thing about a BTS performance is that  so much money goes into the production and the performance. They always have the best lighting,  the best visual effects, and the best choreography money can buy! But tickets are so expensive I don’t  know if I will ever be able to go. 
 
