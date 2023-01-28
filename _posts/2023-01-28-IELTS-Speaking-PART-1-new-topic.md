@@ -9,8 +9,6 @@ tags:
 - IELTS Speaking
 ---
 
-# PART 1 new
-
 ### The space and the stars
 
 **Have you ever learned anything about apace and the stars when you were at school? **
