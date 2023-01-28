@@ -15,10 +15,6 @@ tags:
 
 ### The space and the stars
 
-
-
-
-
 **Have you ever learned anything about apace and the stars when you were at school?**
 
 > Yes. I have learned a lot about space and the stars while I was at school. We were taught about the  solar system in primary school and after that I had a huge interest in physics and astronomy. 
