@@ -1,0 +1,72 @@
+body,html{height:100%;margin:0}
+body{font-size: 100%;font-style:normal;font-family:'Open Sans','Helvetica Neue','Hiragino Sans GB','LiHei Pro',Arial,sans-serif;color: #333}
+div{text-align:center}
+.night{background-color: #292a2d; color: #F8F8FF;}
+.wrapper{min-height: auto; width: 100%; margin: 0 auto}
+.wrapper{position: relative; left: 0; width: auto; text-align: center; top: 13%; left: 0%; margin-left: 0em; margin-top: 0em; -webkit-user-select: none; -moz-user-select: none; user-select: none}
+#main{padding: 1.625em; padding-bottom: 9em; margin-bottom: 5%}
+#footer{position:absolute;bottom: -6.5em;padding: 0.625em 0;width:100%;margin-top:1.5em}
+#RightDownBtn{position: relative; display: table; height: fit-content; margin:0 auto; padding: .3125rem .625rem .0825rem .625rem; box-shadow: 0 0 0.3125rem 0 rgba(0,0,0,.4); border-radius: 0.6rem}
+h1{font-family:Montserrat,'Helvetica Neue',Arial,sans-serif;font-weight:700;font-size:1.875em;letter-spacing:0.5625em;text-transform:uppercase;margin:0.75em 0;left:0.25em}
+h2{color:#999;font-weight:400;font-size:1em;letter-spacing:.12em;margin-bottom:1.875em;left:0.1875em}
+h1,h2{position:relative}
+p{font-size:0.875em;line-height:2em;margin:0;letter-spacing:0.125em}
+canvas{position:absolute;top:0;left:0;z-index:0;width:100%;height:100%;pointer-events:none}
+a{color:#999;text-decoration:none;transition:color .2s ease}
+.tag-love a:hover{color:#f80c0c; cursor: pointer}
+a:hover{color:#369fe6; cursor: pointer}
+img {width:128px; height:auto; border-radius:100%; display: inline-block; box-shadow: 0 0 0 0.3618em rgba(0,0,0,0.05); transition: all ease 0.4s; -webkit-transition: all ease 0.4s; cursor: pointer; margin: 0 auto; overflow:hidden;}
+.avatar img:hover{position: relative; -webkit-transform:translateY(-0.75em); transform: translateY(-0.75em); cursor: pointer;}
+
+.xuanzhuan{-webkit-animation:rotate 3s linear infinite;-moz-animation:rotate 3s linear infinite;-o-animation:rotate 3s linear infinite; animation:rotate 3s linear infinite}@-webkit-keyframes rotate{from{-webkit-transform:rotate(0)}to{-webkit-transform:rotate(360deg)}}@-moz-keyframes rotate{from{-moz-transform:rotate(0)}to{-moz-transform:rotate(359deg)}}@-o-keyframes rotate{from{-o-transform:rotate(0)}to{-o-transform:rotate(359deg)}}@keyframes rotate{from{transform:rotate(0)}to{transform:rotate(359deg)}}.rotating{-webkit-animation:rotate 8s linear infinite;-moz-animation:rotate 8s linear infinite;-ms-animation:rotate 8s linear infinite;-o-animation:rotate 8s linear infinite;animation:rotate 8s linear infinite}
+
+/* 深色模式的颜色设置，需要自己手动逐个添加并适配 */
+.night #page,
+.night #colophon,
+.night #vcomments .vbtn,
+.night .art-content #archives .al_mon_list .al_mon,
+.night .art-content #archives .al_mon_list span,
+.night body{
+    color:#333!important
+}
+.night .art-content #archives .al_mon_list .al_mon,
+.night .art-content #archives .al_mon_list span,
+.night button,
+.night .art .art-content #archives a,
+.night textarea,
+.night strong,
+.night a{color:#999;text-decoration:none;transition:color .2s ease}
+.night p,
+.night a:hover{color:#5499C7; cursor: pointer;}
+.tag-love a:hover{color:#f80c0c; cursor: pointer;}
+.night .label {
+    color: rgba(255, 255, 255, .6);
+}
+.night #RightDownBtn{
+    position: relative; display: table; height: fit-content; margin:0 auto; padding: .3125rem .625rem .0825rem .625rem; box-shadow: 0 0 0.3125rem 0 rgba(0,0,0,.4); filter: brightness(0.6); background: #FFFFFF; border-radius: 0.6rem
+}
+.night #page,
+.night body {
+    color: #F8F8FF;
+}
+.night img {width:128px; height:auto; border-radius:100%; display: inline-block; box-shadow: 0 0 0 0.3618em rgba(238, 229, 229, 0.829); transition: all ease 0.4s; -webkit-transition: all ease 0.4s; cursor: pointer; margin: 0 auto; overflow:hidden;}
+.night .avatar img:hover{position: relative; -webkit-transform:translateY(-0.75em); transform: translateY(-0.75em); cursor: pointer;}
+.night #colophon,
+.night #main-container,
+.night #page .yya,
+.night #content,
+.night #contentss,
+.night #footer,
+.night strong,
+.night img {
+    filter: brightness(.7);
+}
+
+/* CSS 切换的日出日落样式，不需要修改，如果不需要动画可以手动删除这一部分 */
+.Cuteen_DarkSky,.Cuteen_DarkSky:before{content:"";position:fixed;left:0;right:0;top:0;bottom:0;z-index:88888888}
+.Cuteen_DarkSky{background:linear-gradient(#feb8b0,#fef9db)}
+.Cuteen_DarkSky:before{transition:2s ease all;opacity:0;background:linear-gradient(#4c3f6d,#6c62bb,#93b1ed)}
+.night .Cuteen_DarkSky:before{opacity:1}
+.Cuteen_DarkPlanet{z-index:99999999;position:fixed;left:-50%;top:-50%;width:200%;height:200%;-webkit-animation:CuteenPlanetMove 2s cubic-bezier(.7,0,0,1);animation:CuteenPlanetMove 2s cubic-bezier(.7,0,0,1);transform-origin:center bottom}@-webkit-keyframes CuteenPlanetMove{0%{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes CuteenPlanetMove{0%{transform:rotate(0)}to{transform:rotate(360deg)}}
+.Cuteen_DarkPlanet:after{position:absolute;left:35%;top:40%;width:9.375rem;height:9.375rem;border-radius:50%;content:"";background:linear-gradient(#fefefe,#fffbe8)}
+/* sun and noon.end */
