@@ -1,5 +1,5 @@
-Hey, I am Ode1l (JiaHeng Lee), graduated from [HENU School of Software](http://software.henu.edu.cn/). I love Social Science and have spent almost all spare time in school reading them.
+I would like to use this blog as a platform to exchange and discuss topics with you. The blog is not limited to any topic. There is no audit here. The server is abroad. And Baidu will not include my blog.
 
-I had worked in the [yonyou](https://www.yonyou.com/) Henan Branch,and contributed in Secondary Product Development of Yonyou Project and Data Synchronization Project.
+This is a place that is far away from the network police.
 
-I want to share little information of Computer Science but a lot of knowledge of Social Science.
+Commenting system is under development......
